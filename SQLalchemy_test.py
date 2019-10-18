@@ -8,3 +8,5 @@ with engine.connect() as con:
     rows = con.execute("select * from ews1;")
     for row in rows:
         print(row)
+
+con.close()
