@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ShimazuPBL2019/.idea/ShimazuPBL2019.iml" filepath="$PROJECT_DIR$/../ShimazuPBL2019/.idea/ShimazuPBL2019.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dbtest.iml" filepath="$PROJECT_DIR$/.idea/dbtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ShimazuPBL2019/test/.idea/test.iml" filepath="$PROJECT_DIR$/../ShimazuPBL2019/test/.idea/test.iml" />
     </modules>
   </component>
 </project>
